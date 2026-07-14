@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm [Thulasidharan K]</h1>
+<h1 align="center">Hi 👋, I'm [Thulasidharan K]</h1>
 <h3 align="center">
-Full Stack Web Developer, Python developer, AI developer| Passionate Problem Solver | Building
+🌏Full Stack Web Developer, Python developer, AI developer| Passionate Problem Solver | Building
 Modern Web Experiences
 </h3>
 <p align="center">
@@ -13,25 +13,25 @@ wesome!" />
 
 ---
 
-## About Me
+##🚀 About Me
 
-- I'm a **Full Stack Web Developer** passionate about creating
+- 💻I'm a **Full Stack Web Developer** passionate about creating
 responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud ans AI
+- 🚀I enjoy turning ideas into real-world projects.
+- 🌱Currently learning **Next.js, TypeScript, and Cloud ans AI
 Technologies**.
 
-- Open to collaborating on exciting web development and open-
+- 🤝Open to collaborating on exciting web development and open-
 source projects.
 
-- Always exploring modern technologies and best development
+-📚 Always exploring modern technologies and best development
 practices.
-- Fun Fact: **I love solving coding challenges and building
+- ⚡Fun Fact: **I love solving coding challenges and building
 useful applications.**
 
 ---
 
-## Connect With Me
+## 🌏Connect With Me
 
 <p align="left">
 <a href="[https://www.linkedin.com/in/thulasidharank1188/]">
@@ -56,7 +56,7 @@ badge&logo=gmail"/>
 
 ---
 
-# Tech Stack
+# 💻Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?
 i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,LLM,AI,RAG,
@@ -65,55 +65,55 @@ bootstrap,python,django,git,github,vscode,figma,postman,npm,vite"/>
 
 ---
 
-# Featured Projects
-## Portfolio Website
+#🚀 Featured Projects
+## 🌏Portfolio Website
 Modern personal portfolio showcasing projects, skills, and
 experience.
 
 **Tech Stack**
 `HTML` `CSS` `JavaScript` `React`
-Live Demo: [https://thulasidharantharun.github.io/portfolio/]
-Repository: [GitHub Repository]
+📎Live Demo: [https://thulasidharantharun.github.io/portfolio/]
+📂Repository: [GitHub Repository]
 
 ---
 
-## E-Commerce Website
+## 🚚E-Commerce Website
 Restaurant Reservation System (MERN Stack)
 **Tech Stack**
 `React` `Node.js` `Express` `MongoDB`
-Live Demo: [https://github.com/ThulasidharanTharun]
-Repository: [GitHub Repository]
+📎Live Demo: [https://github.com/ThulasidharanTharun]
+📂Repository: [GitHub Repository]
 
 ---
 
-## Design Detection using AI
+## 🔍Design Detection using AI
 Enhancement of Design Detection Performance using AI.
 **Tech Stack**
 `python` `opencv` `TensorFlow` `Sql` `CNN` `Computer Vision`
-Live Demo: [https://github.com/ThulasidharanTharun]
-Repository: [GitHub Repository]
+📎Live Demo: [https://github.com/ThulasidharanTharun]
+📂Repository: [GitHub Repository]
 
 ---
 
-## Sentiment Analysis using AI
+## 👨‍⚕️Sentiment Analysis using AI
 AI-Powered Sentiment Analysis on Customer Reviews.
 **Tech Stack**
 `python` `NLP` `TensorFlow` `Scikit-learn` `TF-IDF`
-Live Demo: [https://github.com/ThulasidharanTharun]
-Repository: [GitHub Repository]
+📎Live Demo: [https://github.com/ThulasidharanTharun]
+📂Repository: [GitHub Repository]
 
 ---
 
-## Vehicle Detection
+## 🚗Vehicle Detection
 Vehicle Detection and Counting using OpenCV.
 **Tech Stack**
 `python` `OpenCV` `NumPy` `imutils` `Computer Vision` 
-Live Demo: [https://github.com/ThulasidharanTharun]
-Repository: [GitHub Repository]
+📎Live Demo: [https://github.com/ThulasidharanTharun]
+📂Repository: [GitHub Repository]
 
 --- 
 
-# GitHub Stats
+# 📊GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?
@@ -127,7 +127,7 @@ r=true"/>
 
 ---
 
-# GitHub Streak
+# 🔥GitHub Streak
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?
 user=[ThulasidharanTharun]&theme=tokyonight&hide_border=true"/>
@@ -135,7 +135,7 @@ user=[ThulasidharanTharun]&theme=tokyonight&hide_border=true"/>
 
 ---
 
-# Contribution Graph
+# 📈Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?
 username=[ThulasidharanTharun]&theme=tokyo-night"/>
@@ -143,7 +143,7 @@ username=[ThulasidharanTharun]&theme=tokyo-night"/>
 
 ---
 
-# GitHub Trophies
+#🏆 GitHub Trophies
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?
@@ -156,14 +156,14 @@ w=10"/>
 ---
 
 # 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and AI.
-- Improving responsive UI/UX design.
+- 🚀Building full-stack web applications.
+- 🌱Learning advanced React ecosystem.
+- ☁Exploring cloud deployment and AI.
+- 📱Improving responsive UI/UX design.
 
 ---
 
-# Currently Learning
+# 📚Currently Learning
 - TypeScript
 - Next.js
 - Docker
@@ -177,17 +177,17 @@ w=10"/>
 
 ---
 
-# Goals for 2026
+# 🎯Goals for 2026
 
-- Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
+- ✔ Contribute to Open Source
+- ✔ Build SaaS Applications
+- ✔ Master Full Stack Development
+- ✔ Learn Cloud Computing
+- ✔ Grow My Developer Portfolio
 
 ---
 
-# Favorite Quote
+# 💡Favorite Quote
 
 > "Code is like humor. When you have to explain it, it's bad." –
 Cory House
@@ -203,9 +203,9 @@ t"/>
 ---
 
 <h3 align="center">
-Thanks for visiting my profile!
+⭐Thanks for visiting my profile!⭐
 </h3>
 <p align="center">
-If you like my work, consider giving a to my repositories and
+If you like my work, consider giving a ⭐to my repositories and
 connecting with me.
 </p>
